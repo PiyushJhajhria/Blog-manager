@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@theme {
+  --color-richblack-50: #F1F2FF;
+  --color-richblack-400: #838894;
+  --color-richblack-800: #161D29;
+  --color-richblack-900: #000814;
+}
+
+html {
+  background: #000814;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: #000814;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: #22d3ee;
+  color: #000814;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000814;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 999px;
+  border: 2px solid #000814;
+}
+
+.browser-css {
+  color: #dbeafe;
+  font-size: 1.05rem;
+  line-height: 1.85;
+}
+
+.browser-css h1,
+.browser-css h2,
+.browser-css h3 {
+  color: #f1f2ff;
+  font-weight: 800;
+  line-height: 1.2;
+  margin: 1.5rem 0 0.75rem;
+}
+
+.browser-css h1 {
+  font-size: 2rem;
+}
+
+.browser-css h2 {
+  font-size: 1.5rem;
+}
+
+.browser-css h3 {
+  font-size: 1.25rem;
+}
+
+.browser-css p,
+.browser-css li {
+  color: #d7deef;
+  margin-bottom: 1.15rem;
+}
+
+.browser-css a {
+  color: #67e8f9;
+  font-weight: 700;
+}
+
+.browser-css ul,
+.browser-css ol {
+  margin: 1rem 0 1rem 1.5rem;
+}
+
+.browser-css ul {
+  list-style: disc;
+}
+
+.browser-css ol {
+  list-style: decimal;
+}
+
+.browser-css img {
+  border-radius: 0.75rem;
+  margin: 1.5rem 0;
+  max-width: 100%;
+}
