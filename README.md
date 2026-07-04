@@ -1,4 +1,13 @@
-﻿# Blog Manager 📝
+﻿# MegaBlog
+
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=111)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=fff)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![TinyMCE](https://img.shields.io/badge/TinyMCE-1976D2?style=for-the-badge&logo=tinymce&logoColor=fff)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=fff)
 
 A full-stack blog management application built with React, Redux, and Appwrite. Create, edit, and manage blog posts with rich text editing, image uploads, and user authentication.
 
